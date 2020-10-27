@@ -31,8 +31,8 @@ namespace PassingInformationForms
             lblTransactionsMessage.Text = "";
 
             lblSMSMessage.ForeColor = System.Drawing.Color.Orange;
-            lblTransactionsMessage.ForeColor = System.Drawing.Color.Purple;
-            lblReportsMessage.ForeColor = System.Drawing.Color.Red;
+            lblTransactionsMessage.ForeColor = System.Drawing.Color.Orange;
+            lblReportsMessage.ForeColor = System.Drawing.Color.Orange;
         }
 
         private void chkSMS_CheckedChanged(object sender, EventArgs e)
